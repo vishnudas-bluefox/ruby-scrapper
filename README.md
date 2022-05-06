@@ -4,7 +4,7 @@
 
 # RubyScrapper
 
-A webscrapping program for Scrap the data from [freethink.com](https://www.freethink.com/articles) and converts it to JSON format text file<br>
+A webscrapping program to Scrap the data from [freethink.com](https://www.freethink.com/articles) and converts it to JSON format text file<br>
 
 ## Develope With:
 
@@ -22,13 +22,13 @@ instagram: https://www.instagram.com/charvaakan/
 ### Set up env
 Set up a environment for `ruby` 
 [Click here](https://phoenixnap.com/kb/install-ruby-ubuntu)
- for installation proceedure
+ for installation procedure
 
-The `bundles` are alredy added to this repository 
+The `bundles` are already added to this repository 
 
 
 
-### Installation Precedure
+### Installation Procedure
 
 To add packages, we recommend using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/v2.3/#getting-started).
 
