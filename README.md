@@ -64,9 +64,21 @@ _________________
 ### Logs While running the program
 ___________________________________
 ![](https://github.com/vishnudas-bluefox/ruby-scrapper/blob/main/images/logs.png)
+#### options
+_______________
+* Select option 1 for scrape data from the home page
+* Select option 2 for scrape data from the home page to n number pages
+* Select option 3 for scrape data from all pages available
+
 ### The output in JSON format
 _______________________________
 ![](https://github.com/vishnudas-bluefox/ruby-scrapper/blob/main/images/outjson.png)
+
+#### output [options]
+________________________
+* ```nano out.json```
+* ```gedit out.json ```
+* open by file manager
 
 
 
