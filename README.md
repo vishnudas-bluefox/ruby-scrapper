@@ -4,7 +4,7 @@
 
 # RubyScrapper
 
-A webscrapping program to Scrap the data from [freethink.com](https://www.freethink.com/articles) and converts it to JSON format text file<br>
+A webscrapping program to Scrap the data from [freethink.com](https://www.freethink.com/articles) and converts it to JSON format text file "out.json" <br>
 
 ## Develope With:
 
